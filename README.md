@@ -1,2 +1,2 @@
 🌟 Espresso - Where Optimization Meets Innovation: Espresso doesn't just optimize; it innovates. This mod brings together the best of Sodium, Lithium, Starlight, and FerriteCore, creating a synergy that transforms your Minecraft adventures into a visually stunning and effortlessly smooth journey. Say goodbye to performance headaches and hello to Espresso, the mod that takes your Minecraft experience to new heights.
-![d66924032e27489e2fc444288129703b21b2b882](https://github.com/SirLordCandice/Espresso/assets/117546411/f7c935d6-a3a5-4e14-ae5c-348148436a48)
+<img src="img_girl.jpg" alt="Girl in a jacket">
